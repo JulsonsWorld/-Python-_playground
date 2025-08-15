@@ -7,7 +7,6 @@ A collection of small projects created along my Python learning path
 - Practicing Git and GitHub workflow  
 - Building a reference of examples I can return to and upgrade in the future 
 
----
 
 ## 📂 Projects
 - **Quiz** – application to ask questions and point counting.
@@ -15,8 +14,7 @@ A collection of small projects created along my Python learning path
 
 ## ⚙️ Technologies
 - Python3
-- Python libraries:
-    -> json
-    -> random
-    -> etc.
+- Python libraries: json, random, etc.
          
+## 🚀 How to Run
+Scripts can be run directly with Python 3

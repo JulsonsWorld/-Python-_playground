@@ -15,7 +15,7 @@ A collection of small projects created along my Python learning path
 
 ## ⚙️ Technologies
 - Python3
-- Python libraries: json, random, etc.
+- Python libraries: json, random, os, etc.
          
 ## 🚀 How to Run
 Scripts can be run directly with Python 3

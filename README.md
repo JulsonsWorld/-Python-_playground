@@ -10,6 +10,7 @@ A collection of small projects created along my Python learning path
 
 ## 📂 Projects
 - **Quiz** – application to ask questions and point counting.
+- **Contact book** - Stores contacts as a dictionary: { "Name": "Email" }, saves contact book data in json file, updates data, correctly store non-ASCII characters (e.g., Polish letters) etc.
 
 
 ## ⚙️ Technologies
